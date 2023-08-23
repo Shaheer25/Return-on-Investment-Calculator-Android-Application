@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".realcalc"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="381dp"
+        android:layout_height="147dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.006"
+        app:srcCompat="@drawable/real" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text=" Buying Price (Sq Yard)"
+        android:textColor="#3F51B5"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView8"
+        app:layout_constraintVertical_bias="0.052" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text=" Current Price (Sq Yard)"
+        android:textColor="#3F51B5"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView25"
+        app:layout_constraintVertical_bias="0.019" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text="Total No Of Sq.Yards"
+        android:textColor="#3F51B5"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView26"
+        app:layout_constraintVertical_bias="0.027" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text="Time Period"
+        android:textColor="#3F51B5"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView27"
+        app:layout_constraintVertical_bias="0.017" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text="Net Profit/Loss"
+        android:textColor="#009688"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView28"
+        app:layout_constraintVertical_bias="0.552" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text="Profit/Loss Percentage"
+        android:textColor="#009688"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView29"
+        app:layout_constraintVertical_bias="0.048" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="232dp"
+        android:layout_height="55dp"
+        android:gravity="center"
+        android:text="Comound Anual Growth Rate(CAGR)"
+        android:textColor="#009688"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView30"
+        app:layout_constraintVertical_bias="0.082" />
+
+    <TextView
+        android:id="@+id/rein"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView25"
+        app:layout_constraintTop_toBottomOf="@+id/imageView8"
+        app:layout_constraintVertical_bias="0.052" />
+
+    <TextView
+        android:id="@+id/reret"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView26"
+        app:layout_constraintTop_toBottomOf="@+id/rein"
+        app:layout_constraintVertical_bias="0.019" />
+
+    <TextView
+        android:id="@+id/reqnt"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView27"
+        app:layout_constraintTop_toBottomOf="@+id/reret"
+        app:layout_constraintVertical_bias="0.027" />
+
+    <TextView
+        android:id="@+id/reyrs"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView28"
+        app:layout_constraintTop_toBottomOf="@+id/reqnt"
+        app:layout_constraintVertical_bias="0.017" />
+
+    <TextView
+        android:id="@+id/rediff"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView29"
+        app:layout_constraintTop_toBottomOf="@+id/reyrs"
+        app:layout_constraintVertical_bias="0.552" />
+
+    <TextView
+        android:id="@+id/reper"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView30"
+        app:layout_constraintTop_toBottomOf="@+id/rediff"
+        app:layout_constraintVertical_bias="0.048" />
+
+    <TextView
+        android:id="@+id/recagr"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView31"
+        app:layout_constraintTop_toBottomOf="@+id/reper"
+        app:layout_constraintVertical_bias="0.081" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text=" Total Buying Value"
+        android:textColor="#009688"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView28"
+        app:layout_constraintVertical_bias="0.111" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="232dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text=" Total Current Value"
+        android:textColor="#009688"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView34"
+        app:layout_constraintVertical_bias="0.036" />
+
+    <TextView
+        android:id="@+id/rebtot"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView34"
+        app:layout_constraintTop_toBottomOf="@+id/reyrs"
+        app:layout_constraintVertical_bias="0.111" />
+
+    <TextView
+        android:id="@+id/rectot"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custon_btn1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView35"
+        app:layout_constraintTop_toBottomOf="@+id/rebtot"
+        app:layout_constraintVertical_bias="0.036" />
+</androidx.constraintlayout.widget.ConstraintLayout>

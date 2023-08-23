@@ -1,0 +1,84 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.roicalc"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:5:5-37:19
+12        android:allowBackup="true"
+12-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] /Users/sujithne/.gradle/caches/transforms-2/files-2.1/cc5e9dcdc56dc39042f72c501235e83f/core-1.5.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.ROICALC" >
+20-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:11:9-45
+21        <activity
+21-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:12:9-13:63
+22            android:name="com.example.roicalc.realcalc"
+22-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:12:19-43
+23            android:parentActivityName="com.example.roicalc.realcalc" />
+23-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:13:13-51
+24        <activity
+24-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:14:9-16:51
+25            android:name="com.example.roicalc.stockcalc"
+25-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:15:13-38
+26            android:parentActivityName="com.example.roicalc.stock" />
+26-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:16:13-48
+27        <activity
+27-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:17:9-19:58
+28            android:name="com.example.roicalc.real"
+28-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:18:13-33
+29            android:parentActivityName="com.example.roicalc.MainActivity" />
+29-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:19:13-55
+30        <activity
+30-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:20:9-22:58
+31            android:name="com.example.roicalc.stock"
+31-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:21:13-34
+32            android:parentActivityName="com.example.roicalc.MainActivity" />
+32-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:22:13-55
+33        <activity
+33-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:23:9-25:58
+34            android:name="com.example.roicalc.calculate"
+34-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:24:13-38
+35            android:parentActivityName="com.example.roicalc.MainActivity" />
+35-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:25:13-55
+36        <activity android:name="com.example.roicalc.MainActivity" >
+36-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:26:9-32:20
+36-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:26:19-47
+37            <intent-filter>
+37-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:27:13-31:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:28:17-69
+38-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:28:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:30:17-77
+40-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:30:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <meta-data
+44-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:34:9-36:57
+45            android:name="preloaded_fonts"
+45-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:35:13-43
+46            android:resource="@array/preloaded_fonts" />
+46-->/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/AndroidManifest.xml:36:13-54
+47    </application>
+48
+49</manifest>

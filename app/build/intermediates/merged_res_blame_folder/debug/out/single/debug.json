@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_calculate.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/calculate.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/font_volkhov_bold.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/font/volkhov_bold.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_border.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/layout_activity_calculate.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/layout/activity_calculate.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/layout_activity_stock.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/layout/activity_stock.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_stockbanner.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/stockbanner.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/layout_activity_real.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/layout/activity_real.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/layout_activity_realcalc.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/layout/activity_realcalc.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_real2.jpg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/real2.jpg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_real.png.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/real.png"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/font_cinzel.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/font/cinzel.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/font_short_stack.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/font/short_stack.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_realestate.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/realestate.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_custon_btn1.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/custon_btn1.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/font_almendra_sc.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/font/almendra_sc.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable-v24_roi.jpg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable-v24/roi.jpg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/layout_activity_stockcalc.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/layout/activity_stockcalc.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_banner1.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/banner1.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_stock.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/stock.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_real1.jpg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/real1.jpg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_banner.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/banner.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/font_allerta.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/font/allerta.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_stockspl.jpeg.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/stockspl.jpeg"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/drawable_custom_btn.xml.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/drawable/custom_btn.xml"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sujithne/AndroidStudioProjects/ROICALC/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    }
+]

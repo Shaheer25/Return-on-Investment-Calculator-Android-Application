@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/cinzel</item>
+        <item>@font/short_stack</item>
+        <item>@font/volkhov_bold</item>
+    </array>
+</resources>
